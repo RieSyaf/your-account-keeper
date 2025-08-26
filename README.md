@@ -23,7 +23,7 @@ The project uses a **hybrid architecture**:
 2. **AI/ML Processing**: Flask (Python) – Hosts PaddleOCR and spaCy NER for invoice text recognition and entity extraction.  
 3. **Database**: MySQL – Stores users, invoices, and invoice details.  
 
-*(See `archi_final.jpg` in the repo for the full architecture diagram.)*
+![Architecture](images/architecture.png)
 
 ---
 
