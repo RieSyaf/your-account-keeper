@@ -13,6 +13,8 @@ Your Account Keeper is a Final Year Project (FYP) web application designed to he
 - **Invoice Management** – Edit, delete, view, and search invoices.
 - **Database Integration** – Store invoices, extracted data, and user details in a database.
 
+![UI](images/gui.png)
+
 ---
 
 ## 🏗️ Architecture Overview
@@ -24,6 +26,9 @@ The project uses a **hybrid architecture**:
 3. **Database**: MySQL – Stores users, invoices, and invoice details.  
 
 ![Architecture](images/archi_final.jpg)
+
+Below are the pipeline diagram for the text extraction model.
+![AI Pipeline](images/AI_new_updated).jpg)
 
 ---
 
