@@ -1,0 +1,18 @@
+# Laravel
+/web-app/vendor/
+/web-app/node_modules/
+/web-app/public/storage
+/web-app/storage/*.key
+/web-app/.env
+
+# Flask / Python
+/ml-service/__pycache__/
+/ml-service/.env
+/ml-service/*.pyc
+/ml-service/venv/
+/ml-service/.ipynb_checkpoints
+
+# General
+.DS_Store
+*.log
+.env

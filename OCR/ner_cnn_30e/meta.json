@@ -1,0 +1,51 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.6,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"911539e",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "ACCOUNT_NUM",
+      "BANK_NAME",
+      "DUE_DATE",
+      "EMAIL",
+      "INVOICE_DATE",
+      "INVOICE_NUM",
+      "ITEM_NAME",
+      "PHONE_NUM",
+      "PRICE",
+      "QUANTITY",
+      "SENDER",
+      "TOTAL_INVOICE_PRICE",
+      "TOTAL_PRICE",
+      "WEBSITE"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}
