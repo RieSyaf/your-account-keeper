@@ -28,7 +28,7 @@ The project uses a **hybrid architecture**:
 ![Architecture](images/archi_final.jpg)
 
 Below are the pipeline diagram for the text extraction model.
-![AI Pipeline](images/AI_new_updated).jpg)
+![AI Pipeline](images/pipeline.jpg)
 
 ---
 
